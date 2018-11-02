@@ -20,6 +20,7 @@ class App extends Component {
             Learn React
           </a>
           <button>go</button>
+          <button>go2</button>
         
         </header>
       </div>
